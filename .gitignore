@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+<<<<<<< HEAD
+=======
+# Mac
+.DS_Store
+
+>>>>>>> 32735f1 (.gitignore)
 # Distribution / packaging
 .Python
 build/
